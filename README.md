@@ -1,3 +1,14 @@
+🎓 Online Course Registration Portal
+
+> React • Spring Boot • MySQL
+
+A full-stack web application that allows students to browse courses and register for them online.
+
+- Students need an easy way to view available courses and manage their registrations.
+- Develop a centralized online portal for course registration.
+- Built a React frontend with Spring Boot REST APIs and MySQL database integration, including course browsing, registration, and duplicate-enrollment prevention.
+- Created a streamlined platform that makes course registration more convenient and organized for students.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
